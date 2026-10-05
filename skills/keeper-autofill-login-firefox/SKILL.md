@@ -1,5 +1,5 @@
 ---
-name: keeper-autofill-login
+name: keeper-autofill-login-firefox
 description: Autofill a saved Keeper login into the currently focused sign-in form using the Keeper browser extension's KeeperFill in-field autofill. Use when a user asks to log in, sign in to, or fill saved credentials into a website with Keeper, including when the vault turns out to be locked or the site requires a second factor.
 ---
 

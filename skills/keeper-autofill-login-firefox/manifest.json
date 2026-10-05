@@ -1,5 +1,5 @@
 {
-  "id": "keeper-autofill-login",
+  "id": "keeper-autofill-login-firefox",
   "name": "Keeper Autofill Login",
   "description": "Fill a saved Keeper login into a site's sign-in form.",
   "author": "jemappellehelene",
